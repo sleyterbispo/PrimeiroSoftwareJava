@@ -9,3 +9,9 @@ uWSGI==2.0.18
 gunicorn==19.9.0
 python-decouple==3.1
 
+teste2222 sleeessss[
+
+
+alohaa
+
+gabritp
